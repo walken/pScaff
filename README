@@ -1,0 +1,16 @@
+Code d'origine : phpscaffold.com
+
+J'ai modifié le code pour le rendre utilisable sous la version de PHP 5 actuel (en date du 16/12/2011)
+De plus j'ai règlé certain problèmes rencontrés avec l'ancienne version. J'ai aussi traduit l'interface utilisateur
+de l'anglais au français. 
+
+Voici la version actuel de pScaff (utilisable et fonctionnel à 100%) : http://walken.tuxfamily.org/pscaff/
+
+Je distribue ce code sous MIT :
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO 
+THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT 
+OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Jeremy.Sainvil@gmail.com
